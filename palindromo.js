@@ -8,4 +8,4 @@ function ehpalindromo(text){
     }
    return 'Eh palindromo';
 }
-console.log(ehpalindromo('socorram me subi no onibus em marrocos'));
+console.log(ehpalindromo('amor a roma'));
